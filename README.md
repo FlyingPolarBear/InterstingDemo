@@ -1,5 +1,8 @@
 # Some demo scripts for interest
 
+## 12306tickets
+A code for getting information from 12306
+
 ## GetCSIContent
 一个快速获得中证指数前十名成分股的小工具
 
